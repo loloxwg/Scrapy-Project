@@ -50,10 +50,11 @@ Scrapy引擎是整个框架的核心.它用来控制调试器、下载器、爬�
 
    widows ，打开一个cmd，输入
 
-	```
-	 conda install scrapy
-	```
-	前提是你装了conda
+   ```
+    conda install scrapy
+    pip install scrapy
+   ```
+   前提是你装了conda
 
 - 创建项目
 
